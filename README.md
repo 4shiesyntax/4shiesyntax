@@ -1,4 +1,4 @@
-<a href="https://github.com/Synaptara">
+<a href="https://github.com/4shiesyntax">
   <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
 </a>
 
