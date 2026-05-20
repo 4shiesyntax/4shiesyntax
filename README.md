@@ -33,6 +33,7 @@ Role        :: Aspiring Full Stack Developer
 Focus       :: Frontend • Backend • Motion UI
 Location    :: South Kalimantan, Indonesia
 Status      :: Building cool things on the internet
+```
 ~/about-me
 
 <img src="https://cdn.discordapp.com/attachments/1401072033177014304/1435448018039214210/download_1.gif?ex=690c00a4&is=690aaf24&hm=215496c920ee2a1860e1bd2dcf198b04e1394fc8fb644eb75c73acba8f6da63e&" width="220" align="right" />
