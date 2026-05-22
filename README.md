@@ -32,11 +32,11 @@
 ```
 
 ```txt
-Name     : Dyline × Lyncode.daily
+Name     : Lyncode.daily
 Focus    : Fullstack Development
 Style    : Black & Lime Minimalist
 Stack    : React · Tailwind · Node.js · Python
-Status   : Building projects daily 🟢
+Status   : Building projects daily 
 Email    : hello@lincode.daily
 ```
 
