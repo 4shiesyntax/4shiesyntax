@@ -2,12 +2,6 @@
   <img src="banner.png" width="100%" alt="Synaptara Banner"/>
 </a>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Lyncode.daily&fontAlign=50&fontAlignY=40&color=0:050505,100:32ff7e&fontColor=ffffff&animation=fadeIn&fontSize=55" width="100%" />
-
-<br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=32FF7E&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Dark+Minimal+Aesthetic;Building+cool+things+daily;Open+Source+Enthusiast" />
 
 <br><br>
