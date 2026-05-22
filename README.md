@@ -79,7 +79,8 @@ username=lyncodedaily&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=C6F
 
 ## `~/activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lyncodedaily&bg_color=0a0a0a&color=C6F135&line=C6F135&point=ffffff&area=true&area_color=C6F135&hide_border=false&border_color=2a2a2a" />
+<img src="https://github.com/4shiesyntax
+username=lyncodedaily&bg_color=0a0a0a&color=C6F135&line=C6F135&point=ffffff&area=true&area_color=C6F135&hide_border=false&border_color=2a2a2a" />
 
 ---
 
