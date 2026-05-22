@@ -1,5 +1,5 @@
 <a href="https://github.com/4shiesyntax">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
+  <img src="banner.png" width="100%" alt="Synaptara Banner"/>
 </a>
 
 <div align="center">
