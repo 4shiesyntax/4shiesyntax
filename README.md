@@ -1,21 +1,6 @@
 <a href="https://github.com/4shiesyntax">
   <img src="banner.png" width="100%" alt="Synaptara Banner"/>
 </a>
-<a href="https://github.com/4shiesyntax">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=32FF7E">
-</a>
-
-<a href="mailto:hello@lincode.dev">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=32FF7E">
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=4shiesyntax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=32FF7E&icon_color=32FF7E&text_color=ffffff" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4shiesyntax&theme=black-ice&hide_border=true&ring=32FF7E&fire=32FF7E&currStreakLabel=32FF7E" width="49%" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4shiesyntax&theme=github-compact&bg_color=000000&color=32FF7E&line=32FF7E&point=ffffff&hide_border=true" width="100%" />
 
