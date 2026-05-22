@@ -63,7 +63,8 @@ Email    : hello@lincode.daily
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lyncodedaily&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=C6F135&icon_color=C6F135&text_color=ffffff&border_color=2a2a2a&hide_border=false&rank_icon=github&ring_color=C6F135" />
+<img height="160" src="https://github.com/4shiesyntax
+username=lyncodedaily&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=C6F135&icon_color=C6F135&text_color=ffffff&border_color=2a2a2a&hide_border=false&rank_icon=github&ring_color=C6F135" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyncodedaily&layout=compact&theme=dark&bg_color=0A0A0A&title_color=C6F135&text_color=ffffff&border_color=2a2a2a&hide_border=false" />
 
 </div>
