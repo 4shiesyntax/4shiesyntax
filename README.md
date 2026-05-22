@@ -1,11 +1,6 @@
 <a href="https://github.com/4shiesyntax">
   <img src="banner.png" width="100%" alt="Synaptara Banner"/>
 </a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=32FF7E&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Dark+Minimal+Aesthetic;Building+cool+things+daily;Open+Source+Enthusiast" />
-
-<br><br>
-
 <a href="https://github.com/4shiesyntax">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=32FF7E">
 </a>
